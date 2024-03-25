@@ -10,12 +10,7 @@
 [![MIT license](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=for-the-badge)](https://github.com/luolongfei/freenom/blob/main/LICENSE)
 
 Documentation: [English version](https://github.com/luolongfei/freenom/blob/main/README_EN.md) | 中文版
-</div>
-
-2024/02/07 Freenom 提供免费顶级域名的时代终结了，也不太可能会有替代品，江湖路远，有缘再见。更多消息可在热心网友的电报群内交流。
-[https://t.me/freenom_auto_renew](https://t.me/freenom_auto_renew)
-
-如果你需要一台高性价比的服务器，可以参考 [美国便宜 VPS](https://go.llfapp.com/cc)
+</div> 
 
 [📢 公告](#-公告)
 
